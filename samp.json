@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "name":"P.Dedeepya",
+    "phone":"8985815182",
+    "photo":"v.png",
+    "email":"dedeepyapulletikurthy@gmail.com"
+  },
+  "education":[
+    {
+     "course":"b.tech(cse):",
+     "college":"Gudlavalleru Engineering college",
+      "data":["2015-2019","9.37","GDLV"]
+    },
+    {
+      "course":"Inter(mpc):",
+      "college":"chaitanya clz",
+       "data":["2013-2015","94%","MTM"]
+        },
+        {
+          "course":"ssc:",
+          "college":"Sri Chaitanya Techno School",
+           "data":["2012-2013","93%","MTM"]
+            }
+    ],
+    "skills":[
+      {
+         "name":"Languages Known",
+         "info":["C","Python","Java","javascript"]
+      },
+      {
+        "name":"Operating Systems",
+        "info":["Linux","Windows","fedora","Unix"]
+      },
+      {
+        "name":"Libraries",
+        "info":["jQuert","Bootsrap"]
+      },
+      {
+        "name":"DataBases",
+        "info":["mysql","Oracle","pl/sql","mysqlite"]
+      }
+    ]
+}
